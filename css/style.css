@@ -529,5 +529,15 @@ footer {
         width: 200px;
     }
 
+    .table-like a {
+        color: red;
+        text-decoration: none;
+    }
+
+    .table-like a:hover {
+        color: #ff4d4d;
+        text-decoration: underline;
+    }
+
 }
 }
